@@ -6,7 +6,7 @@
 网址： https://zouhua.top/amplicon_analysis 
 
 
-渲染bookdown
+## 渲染bookdown
 ```R
 bookdown::render_book("index.Rmd", output_format="bookdown::gitbook", encoding="UTF-8")
 ```
