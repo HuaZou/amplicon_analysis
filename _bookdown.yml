@@ -1,0 +1,12 @@
+book_filename: bookdown
+edit: https://github.com/HuaZou/amplicon_analysis/blob/master/00-declare.Rmd
+clean: [ampliconR.bib, bookdown.bbl]
+delete_merged_file: true
+language:
+  label:
+    fig: "图 "
+    tab: "表 "
+  ui:
+    edit: "编辑"
+    chapter_name: ["第 ", " 章"]
+output_dir: "docs"

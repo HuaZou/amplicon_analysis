@@ -1,0 +1,6 @@
+Package: placeholder
+Type: Book
+Title: Amplicon Sequencing Analysis
+Version: 0.0.1
+Imports: bookdown
+Remotes: HuaZou/amplicon_analysis
